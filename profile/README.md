@@ -1,4 +1,4 @@
-## Michell Mission Metrics
+## Mission Metrics
 
 Solving problems with data
 
